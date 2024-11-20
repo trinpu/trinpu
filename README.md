@@ -1,8 +1,8 @@
 # 👋🏾 Hi, I'm Pierre
 
-I'm an apsiring creative technologist and computational artists. This means that I combine creativity and computations to build inspiring and innovative experiences, and art pieces.
+I'm an aspiring creative technologist and computational artist. I combine creativity and computations to build new experiences and art pieces.
 
-### My areas of interest are:
+### My primary areas of interest are:
 
 * AR/MR experiences
 * Immersive installations
