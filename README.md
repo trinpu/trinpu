@@ -1,10 +1,10 @@
 # 👋🏾 Hi, I'm Pierre
 
-I'm an aspiring creative technologist and computational artist. I combine creativity and computations to build new experiences and art pieces.
+I'm a Technical Program Manager by day and a computational artist by night. In my day job, I drive strategic outcomes through technical innovation. Lately, I've been working on building and implementing AI agents to enhance localization workflows. As a computational artist, I combine creativity and computation to create new immersive experiences and art pieces.
 
 ### My primary areas of interest are:
 
-* AR/MR experiences
+* AI Agents
 * Immersive installations
 * Sound synthesis
 
